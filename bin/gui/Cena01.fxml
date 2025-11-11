@@ -7,7 +7,7 @@
 
 <BorderPane xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.Cena01Controller">
    <top>
-      <BorderPane prefHeight="650.0" prefWidth="650.0" BorderPane.alignment="CENTER">
+      <BorderPane prefHeight="750.0" prefWidth="650.0" BorderPane.alignment="CENTER">
          <top>
             <Button mnemonicParsing="false" onAction="#iniciar" text="Cima" BorderPane.alignment="TOP_CENTER">
                <BorderPane.margin>
