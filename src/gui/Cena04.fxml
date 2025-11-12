@@ -8,7 +8,7 @@
 
 <AnchorPane prefHeight="750.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.Cena04Controller">
    <children>
-      <Circle fx:id="bolinha" fill="DODGERBLUE" layoutX="375.0" layoutY="375.0" radius="40.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="bolinha" fill="#f28d09" layoutX="375.0" layoutY="375.0" radius="40.0" stroke="BLACK" strokeType="INSIDE" />
       <Label layoutX="312.0" layoutY="84.0" text="Cena 4">
          <font>
             <Font size="36.0" />
